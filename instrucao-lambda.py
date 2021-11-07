@@ -1,5 +1,5 @@
 #
-# Onde lambda item: item[1], item é a função que recebe o valor
+# Onde lambda item: item[1], item é a função que recebe o valor.
 #
 lista = [
     ['p6', 13.67],

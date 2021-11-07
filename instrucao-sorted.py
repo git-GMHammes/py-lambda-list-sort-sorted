@@ -16,4 +16,3 @@ lista = [
 print(f'\n lista recebida: {lista}')
 print(f'\n {sorted(lista)}')
 print(f'\n {sorted(lista, key=lambda i: i[1], reverse=True)}')
-
